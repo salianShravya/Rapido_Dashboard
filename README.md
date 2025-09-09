@@ -1,7 +1,9 @@
 🚴 **Rapido Rides Dashboard**
 
 📌 Overview
+
 This repository contains a Power BI dashboard built for analyzing Rapido ride data.
+
 The dashboard provides insights into ride performance, revenue trends, cancellations, top routes, and demand hotspots in Bangalore.
 
 📊 Features
