@@ -1,5 +1,8 @@
 🚴 **Rapido Rides Dashboard**
 
+<img width="1467" height="843" alt="image" src="https://github.com/user-attachments/assets/8051f84a-9e13-4e40-8d86-c6954403761a" />
+
+
 📌 Overview
 
 This repository contains a Power BI dashboard built for analyzing Rapido ride data.
